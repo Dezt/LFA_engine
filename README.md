@@ -7,6 +7,8 @@ LFA Engine was developed from 2008 until about 2013, and has dependencies on [SD
 LFA Engine may still useful if you want to develop a very lightweight game for very low-end hardware that Unity or UE3 are too heavy for.
 
 The basic building block for using the engine is the QuadSet class, which is used to draw.  Everything else flows from there.
+As might be expected, the engine uses bitmap fonts for simplicity:
+bombadierTGA.tga, Dina.tga, arabTypeTGA.tga and glyphs.wstring are added for convinence to be able to start with some GUI.
 
 **4p Air Battle**
 
