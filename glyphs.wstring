@@ -1,0 +1,7 @@
+# glyph list for arabType.tga
+# some glyphs need extra space to define overlapping behavior, so this is compensated with "^"
+# NOTE: @ symbol is used as open quote.
+# NOTE: %  can be used as a spacer.
+#
+#ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-+=!?.,:;'"[]_*
+ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890{}[]()<>$*-+=/#_%^@\&¿~?'"!,.;:ñÑÁÉÍÓÚáéíóúÀÈÌÒÙàèìòùÄËÏÖÜäëïöüßŸÿÂÊÎÔÛâêîôûÆæÇçŒœ
